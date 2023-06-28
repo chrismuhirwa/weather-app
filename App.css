@@ -1,0 +1,69 @@
+.App {
+  text-align: center;
+  background-image: url('https://w0.peakpx.com/wallpaper/677/437/HD-wallpaper-ocean-vs-desert-fusion-graphy-dry-tree-bridge-deserts-ocean-nature-trees.jpg');
+  background-size: auto 100%;
+  background-repeat: no-repeat;
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  min-height: 100vh;
+}
+
+.card {
+  /* background-color: white;
+  width: 900px;
+  /* /* height: 400px;  */
+  /* border-radius: 6px;
+  box-shadow: 0px 60px 80px -20px rgba(39, 165, 253, 0.4); */
+  /* position: relative; */
+  /* overflow: hidden;  */
+  align-items: center;
+  background: hsla(0, 0%, 98%, .85);
+  border-radius: 20px;
+  box-shadow: 10px 10px 5px 0 hsla(0, 0%, 6%, .404);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 40px 8%;
+
+}
+
+.temperature {
+  /* margin-top: 10px;
+  margin-right: 10px; */
+  margin-top: 10px;
+}
+
+.date {
+  font-weight: bold;
+  text-align: center;
+}
+
+.card-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+
+}
+
+.card-body {
+  text-align: center;
+}
+
+.country-name {
+
+  color: #1e2432;
+}
+
+.city-name{
+  display: block;
+  font-size: 1.5em;
+  margin-block-start: 0.83em;
+  margin-block-end: 0.83em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  font-weight: bold;
+}
